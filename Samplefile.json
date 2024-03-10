@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "LSG vs MI Live Score, IPL: Rohit's MI take on Krunal's LSG in race for playoffs - Hindustan Times",
+            "description": "LSG vs MI Live Score, IPL 2023: Follow Lucknow Super Giants vs Mumbai Indians Today's IPL Match cricket scorecard here.",
+            "url": "https://www.hindustantimes.com/cricket/lsg-vs-mi-live-score-ipl-2023-lucknow-super-giants-vs-mumbai-indians-todays-ipl-match-63-latest-scorecard-101684227597303.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/05/16/1600x900/MI_1684235931851_1684235947621.jpg",
+            "publishedAt": "2023-05-16T12:16:47Z",
+            "content": "IPL 2023 Live score: MI full squad\r\nIshan Kishan(w), Rohit Sharma(c), Suryakumar Yadav, Nehal Wadhera, Cameron Green, Vishnu Vinod, Tim David, Chris Jordan, Piyush Chawla, Jason Behrendorff, Kumar Ka… [+203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT News Desk",
+            "title": "RJD leader slams Shastri over ‘pagal’ remark: ‘This Baba is abusing Biharis’ - Hindustan Times",
+            "description": "Dhirendra Shastri, popularly known as ‘Bageshwar Baba’, arrived in Patna on May 13 for holding a five-day congregation. | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/rjd-leader-slams-dhirendra-shastri-over-pagal-remark-this-baba-is-abusing-biharis-101684234622721.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/05/16/1600x900/bihar_tej_pratap_yadav_dhirendra_shastri_bageshwar_1684235704405_1684235704620.jpg",
+            "publishedAt": "2023-05-16T12:01:09Z",
+            "content": "Rashtriya Janata Dal (RJD) leader Tej Pratap Yadav on Tuesday hit out at preacher Dhirendra Shastri alleging that he abused Biharis by calling them pagal, or mad. When asked for his comments on Dhire… [+1921 chars]"
+        }
+    ]
+}
